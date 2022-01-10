@@ -2,8 +2,8 @@
 ----- 
 ### :memo: Um pouco sobre mim:
 
-<h4>:baby: Entusiasta desde pequeno, sempre fui apaixonado por tecnologia e muito curioso sobre como as coisas funcionam.
-<br>
+:baby: Entusiasta desde pequeno, sempre fui apaixonado por tecnologia e muito curioso sobre como as coisas funcionam.
+<br> <br>
 :guitar: Apaixonado por musica, Rock'n Roll baby! :metal:
 <br>
 :martial_arts_uniform: Atleta de Jiu-Jitsu.
