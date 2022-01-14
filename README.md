@@ -26,7 +26,7 @@
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" width="40px" align="center"
   </a>
    
-  <a href="#" target="_blank">
+  <a href="https://www.linkedin.com/in/vitor-ferronato-687b59228/" target="_blank">
   <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1641825620~hmac=5c43110d9c05457974f21589ccc1e913" target="_blank" width="40px" align="center"
   </a>
   
