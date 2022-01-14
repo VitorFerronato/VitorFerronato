@@ -1,4 +1,4 @@
-## :wave: Hello, I'm @VitorFerronato
+## :wave: Hello word! , I'm @VitorFerronato
 
 ### :memo: Um pouco sobre mim:
 
