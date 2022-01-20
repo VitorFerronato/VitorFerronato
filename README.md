@@ -30,10 +30,6 @@
   <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536505.png?token=exp=1641825620~hmac=5c43110d9c05457974f21589ccc1e913" target="_blank" width="40px" align="center"
   </a>
   
-  <a href="https://api.whatsapp.com/send?phone=5549998170538&text=Ol%C3%A1%2C%20vim%20do%20seu%20Github!" target="_blank">
-  <img src="https://cdn-icons.flaticon.com/png/512/3536/premium/3536445.png?token=exp=1641825866~hmac=df24186e4451db097030f1f54eb2ef37" target="_blank" width="40px" align="center"
-  </a>
-    
  
   
 
