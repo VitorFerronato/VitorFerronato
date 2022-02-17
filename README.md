@@ -11,7 +11,7 @@
 
 * Interessado em automatizações de processos, Data Science e Machine Learning.
  * Atualmente estudando Bootstrap e Javascript para aplicações web.
- * Procurando  estágio para desenvolvimento profissional e NetWorking.
+ * Procurando  vaga como junior para desenvolvimento profissional e NetWorking.
  ---
 
 ### Minhas Skills
