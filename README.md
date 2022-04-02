@@ -10,7 +10,7 @@
 :coffee: Barista nas horas vagas.</h4>
 
 * Interessado em automatizações de processos, Data Science e Machine Learning.
- * Atualmente estudando Bootstrap e Javascript para aplicações web.
+ * Atualmente estudando VueJs.
  * Procurando  vaga como junior para desenvolvimento profissional e NetWorking.
  ---
 
