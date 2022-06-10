@@ -11,7 +11,6 @@
 
 * Interessado em automatizações de processos, Data Science e Machine Learning.
  * Atualmente estudando VueJs.
- * Procurando  vaga como junior para desenvolvimento profissional e NetWorking.
  ---
 
 ### Minhas Skills
