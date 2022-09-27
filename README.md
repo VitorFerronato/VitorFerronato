@@ -29,7 +29,7 @@
   ---
   ### Connect with me:
   <div style="display:flex;">
-    <a href="www.linkedin.com/in/vitor-ferronato" target="_blank">
+    <a href="https://www.linkedin.com/in/vitor-ferronato" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
     </a>
     
