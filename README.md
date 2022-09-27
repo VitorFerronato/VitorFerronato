@@ -21,8 +21,8 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" width="40px" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40px" /> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="44px" />
-          
 </div>
+<br>
    
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFerronato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
