@@ -1,19 +1,19 @@
 ## :wave: Hello world! , I'm @VitorFerronato
 
 ### :memo: Um pouco sobre mim:
-:baby: Entusiasta desde pequeno, sempre fui apaixonado por tecnologia e muito curioso sobre como as coisas funcionam.
+:baby:Enthusiastic since I was little, I've always been passionate about technology and very curious about how things work.
 <br> <br>
-:guitar: Apaixonado por musica, Rock'n Roll baby! :metal:
+:guitar: Passionate about music, Rock'n Roll baby! :metal:
 <br>
-:martial_arts_uniform: Atleta de Jiu-Jitsu.
+:martial_arts_uniform: Jiu-Jitsu athlete.
 <br>
-:coffee: Barista nas horas vagas.</h4>
+:coffee: Barista in his spare time.</h4>
 
-* Interessado em automatizações de processos, Data Science e Machine Learning.
- * Atualmente trabalhando na <a href="https://predify.me/">Predify</a> como desenvolvedor front-end VueJs.
+* Interessado em front-end, machine-learning and data science.
+ * Currently working at <a href="https://predify.me/">Predify</a> as a middle VueJs front-end developer.
  ---
 
-### Minhas Skills
+### My Skills
 <div style="display:flex; gap: 1rem;">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40px" />      
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
