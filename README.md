@@ -10,7 +10,7 @@
 :coffee: Barista in his spare time.</h4>
 
 * Interested in front-end, machine-learning and data science.
- * Currently working at <a href="https://neogrid.com/">Predify</a> as a middle VueJs front-end developer.
+ * Currently working at <a href="https://neogrid.com/">Neogrid</a> as a mid VueJs front-end developer.
  ---
 
 ### My Skills
