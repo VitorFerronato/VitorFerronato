@@ -38,8 +38,8 @@
 <h2 align="center">⚒️ My Skills ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,html,css,javascript,flutter,typescript,vitest,cypress,figma,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c#" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,html,css,javascript,flutter,typescript,figma,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,vitest,cypress,express,firebase,mongodb,c#" /><br>
 </div>
 
 <br/>
