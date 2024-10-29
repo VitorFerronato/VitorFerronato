@@ -1,67 +1,59 @@
-## :wave: Hello world! , I'm @VitorFerronato
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=VitorFerronato.VitorFerronato" />
 
-### :memo: About me
-Front-end Developer with more than 4 years of experience, expert in vuejs environment.
-
-:baby:Enthusiastic since I was little, I've always been passionate about technology and very curious about how things work.
-<br> <br>
-:guitar: Passionate about music, Rock'n Roll baby! :metal:
-<br>
-:martial_arts_uniform: Jiu-Jitsu athlete.
-<br>
-:coffee: Barista in his spare time.</h4>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=montserrat&size=28&duration=3000&pause=20&color=40B782&center=true&vCenter=true&width=435&lines=Hello+World!;I'm+Vitor+Ferronato" />
+</h1>
 
 
- * Currently working at <a href="https://neogrid.com/">Neogrid</a> as a mid VueJs front-end developer.
- ---
+<h3 align="center">Software Developer from Brazil! <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" width="24" height="18" ></h3>
 
-### My Skills
-<div style="display: inline_block">
-  <img align="center" alt="vuejs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
- <img align="center" alt="vuejs" src="https://img.shields.io/badge/nuxt%20js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
- <img align="center" alt="js" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
- <img align="center" alt="js" src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-   <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
+
+<br/>
+
+<div align="left">
+👶 Enthusiastic since I was little, I've always been passionate about technology and very curious about how things work.<br>
+📝 Over 4 years of experience with frontend applications<br>
+💼 Currently working as a front-end developer at Neogrid <br><br>
+
+🎸 Passionate about music, Rock'n Roll baby! 🤘<br>
+🥋 Jiu-Jitsu athlete.<br>
+☕ Barista in his spare time.
+</div>
+ 
+<div align="left">
+  <a href="https://www.youtube.com/@vuebytes" target="_blank">
+     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+   <a href="https://www.linkedin.com/in/vitor-ferronato" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="mailto:vitorferronato@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://portifolio-vf.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+ 
+<h2 align="center">⚒️ My Skills ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,angular,react,html,css,javascript,flutter,typescript,vitest,cypress,figma,tailwind" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,express,firebase,mongodb,c#" /><br>
 </div>
 
+<br/>
 
-
- 
+<h2 align="center">⚡ Stats ⚡</h2>
 <br>
-   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFerronato&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
-  ---
-  ### Connect with me:
-  <div style="display:flex;">
-    <a href="https://www.linkedin.com/in/vitor-ferronato" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40px" />
-    </a>
-    
-  </div>
-    
- 
- 
- 
-  
 
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=VitorFerronato&theme=vue-dark&date_format=j%2Fn%5B%2FY%5D&card_height=202" alt="streak stats"/>
+    <img width=380 src="https://github-readme-stats.vercel.app/api?username=VitorFerronato&show_icons=true&theme=vue-dark" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorFerronato&layout=compact&theme=vue-dark" alt="top langs" />
+</div>
 
+<br/><br/>
 
- 
-
-
-
-
-  
-  
-  
-  
-
+<br/>
