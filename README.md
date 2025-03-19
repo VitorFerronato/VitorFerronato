@@ -13,7 +13,7 @@
 <div align="left">
 👶 Enthusiastic since I was little, I've always been passionate about technology and very curious about how things work.<br>
 📝 Over 5 years of experience with frontend applications<br>
-💼 Currently working as a front-end developer at Neogrid <br><br>
+💼 Currently working as a Fullstack developer at Neogrid <br><br>
 
 🎸 Passionate about music, Rock'n Roll baby! 🤘<br>
 🥋 Jiu-Jitsu athlete.<br>
